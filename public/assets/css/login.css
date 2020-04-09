@@ -1,0 +1,9 @@
+#bimg {
+    background-image: url("../img/cidades_inteligentes_brackground.jpg");
+    height: 100%;
+}
+
+html,
+body {
+    height: 100%;
+}
